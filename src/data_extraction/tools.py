@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 from scipy.io import loadmat
 import glob
 import mne
-from tqdm import tqdm
 import re
 
 def load_mat(filepath):
